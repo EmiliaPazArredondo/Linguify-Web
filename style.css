@@ -1,0 +1,51 @@
+.row {
+    display: flex;
+}
+
+.one {
+    background-color: gray;
+    height: 450px;
+    width: 1350px;
+}
+
+.two {
+    background-color: lightgray;
+    height: 450;
+    width: 1350px;
+}
+
+.nav {
+    gap: 50px;
+    padding-top: 20px;
+    background-color: lightgray;
+    display: flex;
+}
+
+.logo {
+    margin-left: 100px;
+}
+
+.inicio {   
+    margin-left: 800px;
+}
+
+.boton1 {
+
+}
+
+.boton2 {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.Enunciado_1 {
+    font-size: 70px;
+    width: 600px;
+    margin-left: 390px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
